@@ -11,6 +11,18 @@
       "email": "suprava@gmail.com",
       "password": "sup",
       "id": 2
+    },
+    {
+      "email": "rahul@gmail.com",
+      "password": "rahul",
+      "username": "rahul kumar Mishra",
+      "id": 3
+    },
+    {
+      "email": "rinkydas@gmail.com",
+      "password": "rinky",
+      "username": "Rinky Das",
+      "id": 4
     }
   ]
 }
