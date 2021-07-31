@@ -1,0 +1,16 @@
+{
+  "register": [
+    {
+      "id": 1,
+      "username": "Rima Mishra",
+      "email": "rima@gmail.com",
+      "password": "rima"
+    },
+    {
+      "username": "suprava padhi",
+      "email": "suprava@gmail.com",
+      "password": "sup",
+      "id": 2
+    }
+  ]
+}
